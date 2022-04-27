@@ -15,10 +15,9 @@
 {List the questions and the answers you found by doing this analysis.}
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+IDE - VSCode
+Language - Python
+Libraries - Pandas
 
 # Useful Websites
 
